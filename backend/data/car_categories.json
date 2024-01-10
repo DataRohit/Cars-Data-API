@@ -1,0 +1,349 @@
+[
+	{
+		"category_name": "Performance Sedan",
+		"baseline_parameters": {
+			"horsepower": "400-600 hp",
+			"0-60 mph": "3-4 seconds",
+			"top speed": "155-200 mph",
+			"seating": "4-5"
+		},
+		"description": "The Performance Sedan combines the comfort and practicality of a luxury sedan with the sheer exhilaration of a sports car. Equipped with powerful engines and advanced suspensions, these four-door sedans offer incredible straight-line acceleration and high-speed stability for the ultimate thrill ride."
+	},
+
+	{
+		"category_name": "City Commuter",
+		"baseline_parameters": {
+			"mpg": "35-60 mpg",
+			"seating": "4-5",
+			"cargo space": "15-25 cu.ft."
+		},
+		"description": "The City Commuter is the ideal runabout for tackling congested urban roads while maximizing fuel efficiency. Compact and maneuverable, these practical cars offer generous cabin and cargo space despite their small footprint. Frugal powertrains and advanced tech make them the perfect companions for the daily drive."
+	},
+
+	{
+		"category_name": "Off Road SUV",
+		"baseline_parameters": {
+			"ground clearance": "8-12 inches",
+			"approach/departure angles": "25-35 degrees",
+			"4WD system": "Standard",
+			"low range gearing": "Available"
+		},
+		"description": "Rugged body-on-frame construction, heavy-duty suspension, and advanced 4WD systems allow the Off Road SUV to traverse harsh environments with ease. Maximized approach, departure, and breakover angles coupled with generous ground clearance enable drivers to scale rocky trails and power through mud or sand."
+	},
+
+	{
+		"category_name": "Electric Supercar",
+		"baseline_parameters": {
+			"battery range": "200-300 miles",
+			"recharge time": "80% in 20-40 min",
+			"horsepower": "800-2000 hp",
+			"torque": "1000-1500 lb-ft"
+		},
+		"description": "The Electric Supercar combines neck-snapping acceleration and spaceship styling with eco-friendly powertrains. Offering silent and emissions-free performance, these exotic EVs benefit from instantaneous torque delivery and sophisticated battery tech for unrivaled driving thrills."
+	},
+
+	{
+		"category_name": "Crossover SUV",
+		"baseline_parameters": {
+			"ground clearance": "6-8 inches",
+			"mpg": "25-35 mpg",
+			"seating": "5-7",
+			"cargo space": "25-70 cu.ft."
+		},
+		"description": "Blending SUV versatility with passenger car ride and handling, the Crossover SUV offers family-friendly utility. With available AWD, these crossover SUVs provide all-weather traction and off-road readiness without sacrificing comfort or driving dynamics."
+	},
+
+	{
+		"category_name": "Pickup Truck",
+		"baseline_parameters": {
+			"bed length": "5-9 feet",
+			"towing capacity": "5000-12000 lbs",
+			"payload capacity": "1000-3000 lbs",
+			"4WD system": "Available"
+		},
+		"description": "With formidable capability, rugged construction and versatility, the Pickup Truck is designed for work and play. Large cargo beds and robust frames allow these trucks to haul heavy loads, while four-wheel-drive models can tow or traverse off-road terrain with confidence."
+	},
+
+	{
+		"category_name": "Compact SUV",
+		"baseline_parameters": {
+			"length": "170-190 inches",
+			"seating": "5",
+			"cargo space": "25-60 cu.ft."
+		},
+		"description": "Easy to maneuver and park, the Compact SUV offers car-like driving dynamics with available AWD traction. Compact exterior dimensions combine with an expansive and flexible interior to create a versatile vehicle suited to urban use or outdoor adventures."
+	},
+
+	{
+		"category_name": "Electric SUV",
+		"baseline_parameters": {
+			"battery range": "250-400 miles",
+			"recharge time": "80% in 30-60 min",
+			"seating": "5-7",
+			"cargo space": "25-70 cu.ft."
+		},
+		"description": "Combining the space and flexibility of an SUV with eco-friendly electric propulsion, the Electric SUV provides a seamless transition to zero-emissions driving. Advanced batteries deliver ample range for daily use while potent electric motors offer brisk acceleration."
+	},
+
+	{
+		"category_name": "Compact Electric SUV",
+		"baseline_parameters": {
+			"battery range": "200-300 miles",
+			"recharge time": "80% in 30-45 min",
+			"length": "170-190 inches",
+			"cargo space": "25-60 cu.ft."
+		},
+		"description": "The Compact Electric SUV retains maneuverable dimensions for urban driving while eliminating range anxiety. A versatile interior and available AWD provide SUV capabilities and family-friendly practicality with an eco-conscious electric powertrain."
+	},
+
+	{
+		"category_name": "Electric Sedan",
+		"baseline_parameters": {
+			"battery range": "250-400 miles",
+			"recharge time": "80% in 30-60 min",
+			"length": "190-210 inches",
+			"seating": "5"
+		},
+		"description": "Offering silent, emissions-free performance, the Electric Sedan provides an eco-friendly alternative to gas-powered luxury sedans. Potent electric motors deliver brisk acceleration while advanced batteries eliminate range anxiety during daily driving."
+	},
+
+	{
+		"category_name": "Hatchback",
+		"baseline_parameters": {
+			"length": "160-180 inches",
+			"mpg": "25-40 mpg",
+			"seating": "4-5",
+			"cargo space": "15-25 cu.ft."
+		},
+		"description": "With increased cargo versatility compared to a traditional sedan, the Hatchback remains compact and nimble. Strong value positioning makes these hatchbacks economical choices for urban commuting and driving while providing expansive interior space."
+	},
+
+	{
+		"category_name": "Full-size SUV",
+		"baseline_parameters": {
+			"length": "200-220 inches",
+			"towing capacity": "7000-9000 lbs",
+			"seating": "6-8",
+			"cargo space": "30-120 cu.ft."
+		},
+		"description": "The Full-size SUV offers maximum passenger space, luxury appointments, and advanced technology. With potent V8 engines and heavy-duty suspensions, these large SUVs deliver formidable trailering abilities while cosseting occupants in first-class comfort."
+	},
+
+	{
+		"category_name": "Muscle Car",
+		"baseline_parameters": {
+			"engine size": "6.0-7.0L V8",
+			"horsepower": "450-850 hp",
+			"0-60 mph": "3-5 sec",
+			"top speed": "150-200 mph"
+		},
+		"description": "With iconic V8 engine power, rear-wheel-drive dynamics, and aggressive styling, the Muscle Car delivers straight-line performance in an attainable package. Strong acceleration, overpowered engines, and RWD handling define this quintessential American performance segment."
+	},
+
+	{
+		"category_name": "Compact Sedan",
+		"baseline_parameters": {
+			"length": "180-200 inches",
+			"mpg": "25-40 mpg",
+			"seating": "5",
+			"cargo space": "10-20 cu.ft."
+		},
+		"description": "The Compact Sedan delivers practical four-door transportation with nimble handling and high fuel efficiency. Compact exterior dimensions make parking and urban maneuvers easy while spacious interiors comfortably accommodate four adults."
+	},
+
+	{
+		"category_name": "Adventure SUV",
+		"baseline_parameters": {
+			"ground clearance": "8-12 inches",
+			"departure angle": "25-35 degrees",
+			"4WD system": "Standard",
+			"seating": "5-7"
+		},
+		"description": "Blending rugged off-road capability with upscale amenities, the Adventure SUV allows exploring remote locations in comfort. Standard 4WD systems and generous ride height allow these SUVs to traverse rough terrain and challenging obstacles off the beaten path."
+	},
+
+	{
+		"category_name": "Performance SUV",
+		"baseline_parameters": {
+			"0-60 mph": "3-5 sec",
+			"horsepower": "500-700 hp",
+			"top speed": "155-175 mph",
+			"towing capacity": "6000-8000 lbs"
+		},
+		"description": "Performance SUVs feature sporty handling and potent powertrains to deliver supercar pace in a practical SUV package. Strong acceleration, high-speed composure, and available AWD transform these family haulers into legitimate performance machines."
+	},
+
+	{
+		"category_name": "Sedan",
+		"baseline_parameters": {
+			"length": "190-210 inches",
+			"mpg": "22-30 mpg",
+			"seating": "5",
+			"cargo space": "10-20 cu.ft."
+		},
+		"description": "The Sedan delivers an optimal blend of passenger and cargo space in a maneuverable four-door footprint. Refined driving dynamics, smooth ride quality, and comfortable, tech-laden interiors provide enjoyable transportation for both drivers and passengers alike."
+	},
+
+	{
+		"category_name": "Compact Electric",
+		"baseline_parameters": {
+			"battery range": "125-250 miles",
+			"recharge time": "80% in 30-60 min",
+			"length": "160-185 inches"
+		},
+		"description": "The Compact Electric provides eco-friendly transportation with nimble driving dynamics and space efficiency. Advanced battery tech delivers adequate range for urban commuting and short trips with swift charging capabilities when needed."
+	},
+
+	{
+		"category_name": "Executive Sedan",
+		"baseline_parameters": {
+			"length": "200-220 inches",
+			"engine size": "3.0-4.0L V6 or V8",
+			"seating": "4-5",
+			"cargo space": "15-20 cu.ft."
+		},
+		"description": "Catering to VIP clientele, the Executive Sedan provides first-class accommodations with a prestige badge. Luxurious materials, bespoke options, and powerful yet silky drivetrains ensure these flagship sedans deliver unmatched refinement."
+	},
+
+	{
+		"category_name": "SUV",
+		"baseline_parameters": {
+			"length": "185-205 inches",
+			"ground clearance": "6-9 inches",
+			"towing capacity": "4000-7000 lbs",
+			"seating": "5-7"
+		},
+		"description": "Blending car-like handling with SUV versatility, this mid-size SUV offers well-rounded capabilities. Available 3-row seating and generous cargo room provide flexible practicality while comfortable ride quality retains family-friendly comfort."
+	},
+
+	{
+		"category_name": "Hybrid Hypercar",
+		"baseline_parameters": {
+			"horsepower": "900-1500 hp",
+			"0-60 mph": "2-3 sec",
+			"top speed": "350-400 mph",
+			"combined gas/electric range": "300-500 miles"
+		},
+		"description": "The Hybrid Hypercar combines a high-performance electric drivetrain with a combustion engine for unprecedented power and efficiency. Advanced battery tech and ultra-potent combined output create mind-bending acceleration and speed with reduced emissions."
+	},
+
+	{
+		"category_name": "Exotic Sports Car",
+		"baseline_parameters": {
+			"engine size": "4.0-6.5L V8/V10/V12",
+			"horsepower": "600-900 hp",
+			"0-60 mph": "2.5-3.5 sec",
+			"top speed": "200-250 mph"
+		},
+		"description": "The Exotic Sports Car offers extreme performance with bespoke styling and meticulous detailing. Hand-built construction, mid-engine layouts, and meticulously tuned engines provide phenomenal power and surgical handling abilities."
+	},
+
+	{
+		"category_name": "Compact Crossover",
+		"baseline_parameters": {
+			"length": "175-190 inches",
+			"ground clearance": "5-7 inches",
+			"mpg": "25-35 mpg",
+			"seating": "5"
+		},
+		"description": "Blending car-like driving dynamics and SUV versatility, the Compact Crossover delivers practicality in a city-friendly package. Despite compact dimensions, these crossovers provide generous passenger and cargo room."
+	},
+
+	{
+		"category_name": "Compact",
+		"baseline_parameters": {
+			"length": "160-180 inches",
+			"mpg": "28-40 mpg",
+			"seating": "4-5",
+			"cargo space": "10-20 cu.ft."
+		},
+		"description": "Combining space efficiency, fuel economy, and value, the Compact makes an ideal urban runabout. Nimble handling and compact exterior dimensions allow easy maneuvering and parking while interiors remain comfortable for passengers."
+	},
+
+	{
+		"category_name": "Eco-Friendly",
+		"baseline_parameters": {
+			"mpg or MPGe": "35+ mpg or 80+ MPGe",
+			"emissions": "Low/Zero",
+			"greenhouse gas rating": "6-10"
+		},
+		"description": "The Eco-Friendly car minimizes environmental impact through high fuel efficiency, low/zero emissions, and use of renewable or recyclable materials. Advanced powertrains, streamlined aerodynamics, and lightweight materials contribute to smaller carbon footprints."
+	},
+
+	{
+		"category_name": "Family SUV",
+		"baseline_parameters": {
+			"length": "190-210 inches",
+			"seating": "6-8",
+			"cargo space": "40-85 cu.ft.",
+			"towing capacity": "5000-8000 lbs"
+		},
+		"description": "With expansive passenger and cargo room, the Family SUV provides maximum utility for households. Available 3rd row seating, strong towing performance, and all-weather capability transform these SUVs into versatile family transport."
+	},
+
+	{
+		"category_name": "Hypercar",
+		"baseline_parameters": {
+			"horsepower": "1000-1600 hp",
+			"0-60 mph": "Under 3 sec",
+			"top speed": "250+ mph",
+			"aerodynamics": "Advanced active"
+		},
+		"description": "The Hypercar provides unrelenting performance through cutting-edge aerodynamics, ultra-lightweight materials, and potent powertrains. These extreme machines achieve mind-bending speed and physics-defying handling abilities on both road and track."
+	},
+
+	{
+		"category_name": "Luxury SUV",
+		"baseline_parameters": {
+			"msrp": "$60K+",
+			"engine size": "3.5-4.0L V6 or V8",
+			"cargo space": "30-40 cu.ft.",
+			"seating": "5-7"
+		},
+		"description": "Blending luxury appointments with SUV practicality, this premium mid-size SUV offers exceptional refinement. Top-tier materials, bespoke interior options, and smooth powertrains provide a first-class on- and off-road experience."
+	},
+
+	{
+		"category_name": "Sports Coupe",
+		"baseline_parameters": {
+			"engine size": "2.0-5.0L Turbo I4/V6/V8",
+			"horsepower": "300-600 hp",
+			"0-60 mph": "3.5-4.5 sec",
+			"seating": "2-4 seat"
+		},
+		"description": "The Sports Coupe features aggressive performance, driver-focused cockpits, and athletic styling. Potent forced-induction engines, precision-tuned suspensions, and rear-wheel-drive dynamics contribute to incredible power and agile handling."
+	},
+
+	{
+		"category_name": "Luxury Sedan",
+		"baseline_parameters": {
+			"msrp": "$50K+",
+			"engine size": "2.0-4.0L Turbo I4/V6",
+			"seating": "4-5",
+			"interior": "Bespoke materials"
+		},
+		"description": "Luxury Sedans showcase cutting-edge technology and first-class accommodations. Premium materials, elegant interiors, smooth and powerful drivetrains deliver unmatched refinement and sophistication."
+	},
+
+	{
+		"category_name": "Supercar",
+		"baseline_parameters": {
+			"horsepower": "600-900 hp",
+			"0-60 mph": "2.8-3.2 sec",
+			"top speed": "200-220 mph",
+			"msrp": "$200K+"
+		},
+		"description": "The Supercar provides extreme performance with daily drivability. Lightweight exotics can reach 60 mph in under 3 seconds and achieve speeds over 200 mph via powerful yet streetable engines and cutting-edge aerodynamics."
+	},
+
+	{
+		"category_name": "Off Road Truck",
+		"baseline_parameters": {
+			"ground clearance": "8-12 inches",
+			"approach/departure angle": "25-35 degrees",
+			"4WD system": "Standard",
+			"towing capacity": "7000-12000 lbs"
+		},
+		"description": "Customized for traversing rough terrain and tough conditions, the Off Road Truck combines heavy-duty capability with maximum maneuverability. Advanced 4WD systems, two-speed transfer cases, and generous ride height allow driving far off the beaten path."
+	}
+]

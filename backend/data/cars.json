@@ -1,0 +1,1327 @@
+[
+	{
+		"manufacturer": "BMW",
+		"model": "M3",
+		"launch_year": 2021,
+		"engine_config": {
+			"engine_type": "Turbocharged I6",
+			"engine_capacity_cc": 3000,
+			"horsepower": 503,
+			"fuel_type": "Gasoline",
+			"transmission": "Automatic",
+			"drive_system": "All Wheel Drive",
+			"cylinders": 6,
+			"acceleration_0_100_kmph_seconds": 3.4,
+			"top_speed_kmph": 290,
+			"fuel_efficiency_city_kmpl": 8,
+			"fuel_efficiency_highway_kmpl": 12
+		},
+		"features": [
+			"Adaptive Suspension",
+			"Head-Up Display",
+			"Wireless Charging",
+			"Heated Seats"
+		],
+		"colors": ["Alpine White", "Black Sapphire", "Portimao Blue"],
+		"categories": ["Sports Coupe", "Performance Sedan"],
+		"starting_price": 8600000
+	},
+	{
+		"manufacturer": "Mercedes-Benz",
+		"model": "EQS",
+		"launch_year": 2022,
+		"engine_config": {
+			"motor_type": "Permanent Magnet Synchronous",
+			"battery_capacity_kwh": 107.8,
+			"horsepower": 516,
+			"drive_system": "All Wheel Drive",
+			"acceleration_0_100_kmph_seconds": 4.3,
+			"top_speed_kmph": 210,
+			"range_km": 547
+		},
+		"features": [
+			"Ambient Lighting",
+			"Augmented Reality Navigation",
+			"Massaging Seats",
+			"Surround View Camera"
+		],
+		"colors": ["Obsidian Black", "High-Tech Silver", "Emerald Green"],
+		"categories": ["Luxury Sedan", "Electric SUV"],
+		"starting_price": 8700000
+	},
+	{
+		"manufacturer": "Tata",
+		"model": "Nexon EV",
+		"launch_year": 2020,
+		"engine_config": {
+			"motor_type": "Permanent Magnet Synchronous",
+			"battery_capacity_kwh": 30.2,
+			"horsepower": 127,
+			"drive_system": "Front Wheel Drive",
+			"acceleration_0_100_kmph_seconds": 9.9,
+			"top_speed_kmph": 120,
+			"range_km": 312
+		},
+		"features": [
+			"Regenerative Braking",
+			"Automatic Climate Control",
+			"Touchscreen Infotainment",
+			"Reverse Camera"
+		],
+		"colors": ["Daytona Grey", "Pristine White", "Intensi-Teal"],
+		"categories": ["Compact Electric SUV", "City Commuter"],
+		"starting_price": 1400000
+	},
+	{
+		"manufacturer": "Mahindra",
+		"model": "Thar",
+		"launch_year": 2020,
+		"engine_config": {
+			"engine_type": "Turbo Petrol",
+			"engine_capacity_cc": 1997,
+			"horsepower": 150,
+			"fuel_type": "Gasoline",
+			"transmission": "Manual",
+			"drive_system": "Four Wheel Drive",
+			"cylinders": 4,
+			"acceleration_0_100_kmph_seconds": 12.6,
+			"top_speed_kmph": 158,
+			"fuel_efficiency_city_kmpl": 12,
+			"fuel_efficiency_highway_kmpl": 16
+		},
+		"features": [
+			"Off-road Suspension",
+			"Touchscreen Infotainment",
+			"4X4 Capability",
+			"Mechanical Locking Differentials"
+		],
+		"colors": ["Red Rage", "Aquamarine", "Napoli Black"],
+		"categories": ["Off Road SUV", "Adventure SUV"],
+		"starting_price": 1000000
+	},
+	{
+		"manufacturer": "Maruti Suzuki",
+		"model": "Alto K10",
+		"launch_year": 2022,
+		"engine_config": {
+			"engine_type": "K10C Petrol",
+			"engine_capacity_cc": 998,
+			"horsepower": 67,
+			"fuel_type": "Gasoline",
+			"transmission": "Manual",
+			"drive_system": "Front Wheel Drive",
+			"cylinders": 3,
+			"acceleration_0_100_kmph_seconds": 15.5,
+			"top_speed_kmph": 140,
+			"fuel_efficiency_city_kmpl": 24.9,
+			"fuel_efficiency_highway_kmpl": 33.5
+		},
+		"features": [
+			"Touchscreen System",
+			"Keyless Entry",
+			"ABS",
+			"Dual Airbags"
+		],
+		"colors": ["Silky Silver", "Granite Grey", "Speedy Blue"],
+		"categories": ["Hatchback", "City Commuter"],
+		"starting_price": 400000
+	},
+	{
+		"manufacturer": "Hyundai",
+		"model": "Kona Electric",
+		"launch_year": 2019,
+		"engine_config": {
+			"motor_type": "Permanent Magnet Synchronous",
+			"battery_capacity_kwh": 39.2,
+			"horsepower": 136,
+			"drive_system": "Front Wheel Drive",
+			"acceleration_0_100_kmph_seconds": 9.7,
+			"top_speed_kmph": 155,
+			"range_km": 452
+		},
+		"features": [
+			"Regenerative Braking",
+			"Heads Up Display",
+			"Leather Seats",
+			"Paddle Shifters"
+		],
+		"colors": ["Phantom Black", "Polar White", "Typhoon Silver"],
+		"categories": ["Compact Electric SUV", "Eco-Friendly"],
+		"starting_price": 2400000
+	},
+	{
+		"manufacturer": "Ford",
+		"model": "Mustang",
+		"launch_year": 2022,
+		"engine_config": {
+			"engine_type": "V8",
+			"engine_capacity_cc": 5000,
+			"horsepower": 480,
+			"fuel_type": "Gasoline",
+			"transmission": "Automatic",
+			"drive_system": "Rear Wheel Drive",
+			"cylinders": 8,
+			"acceleration_0_100_kmph_seconds": 4.0,
+			"top_speed_kmph": 250,
+			"fuel_efficiency_city_kmpl": 6,
+			"fuel_efficiency_highway_kmpl": 10
+		},
+		"features": [
+			"Leather Seats",
+			"Brembo Brakes",
+			"Navigation",
+			"Bang & Olufsen Sound"
+		],
+		"colors": ["Velocity Blue", "Carbonized Gray", "Antimatter Blue"],
+		"categories": ["Sports Coupe", "Muscle Car"],
+		"starting_price": 7500000
+	},
+	{
+		"manufacturer": "Volkswagen",
+		"model": "Polo",
+		"launch_year": 2021,
+		"engine_config": {
+			"engine_type": "Turbo Petrol",
+			"engine_capacity_cc": 999,
+			"horsepower": 110,
+			"fuel_type": "Gasoline",
+			"transmission": "Automatic",
+			"drive_system": "Front Wheel Drive",
+			"cylinders": 3,
+			"acceleration_0_100_kmph_seconds": 9.7,
+			"top_speed_kmph": 190,
+			"fuel_efficiency_city_kmpl": 18,
+			"fuel_efficiency_highway_kmpl": 22
+		},
+		"features": [
+			"Auto Climate Control",
+			"Rear AC Vents",
+			"ABS",
+			"Hill Hold Assist"
+		],
+		"colors": ["Sunset Red", "Carbon Steel Grey", "Reflex Silver"],
+		"categories": ["Hatchback", "Compact"],
+		"starting_price": 700000
+	},
+	{
+		"manufacturer": "MG",
+		"model": "ZS EV",
+		"launch_year": 2020,
+		"engine_config": {
+			"motor_type": "Permanent Magnet Synchronous",
+			"battery_capacity_kwh": 44.5,
+			"horsepower": 143,
+			"drive_system": "Front Wheel Drive",
+			"acceleration_0_100_kmph_seconds": 8.5,
+			"top_speed_kmph": 140,
+			"range_km": 340
+		},
+		"features": [
+			"Panoramic Sunroof",
+			"Leatherette Seats",
+			"Keyless Entry",
+			"PM 2.5 Filter"
+		],
+		"colors": ["Hamburg Silver", "Candy White", "Asteroid Grey"],
+		"categories": ["Electric SUV", "Compact Crossover"],
+		"starting_price": 220000
+	},
+	{
+		"manufacturer": "Jeep",
+		"model": "Wrangler",
+		"launch_year": 2021,
+		"engine_config": {
+			"engine_type": "Turbo Petrol",
+			"engine_capacity_cc": 1997,
+			"horsepower": 268,
+			"fuel_type": "Gasoline",
+			"transmission": "Automatic",
+			"drive_system": "Four Wheel Drive",
+			"cylinders": 4,
+			"acceleration_0_100_kmph_seconds": 7.4,
+			"top_speed_kmph": 177,
+			"fuel_efficiency_city_kmpl": 9,
+			"fuel_efficiency_highway_kmpl": 12
+		},
+		"features": [
+			"Removable Roof",
+			"Off-road Suspension",
+			"Touchscreen System",
+			"Leather Seats"
+		],
+		"colors": ["Firecracker Red", "Hydro Blue", "Sting Gray"],
+		"categories": ["Off Road SUV", "Adventure SUV"],
+		"starting_price": 6500000
+	},
+	{
+		"manufacturer": "Audi",
+		"model": "e-tron GT",
+		"launch_year": 2021,
+		"engine_config": {
+			"motor_type": "Permanent Magnet Synchronous",
+			"battery_capacity_kwh": 93.4,
+			"horsepower": 469,
+			"drive_system": "All Wheel Drive",
+			"acceleration_0_100_kmph_seconds": 4.1,
+			"top_speed_kmph": 245,
+			"range_km": 388
+		},
+		"features": [
+			"Massaging Seats",
+			"Virtual Cockpit",
+			"Adaptive Air Suspension",
+			"Surround View Camera"
+		],
+		"colors": ["Mythos Black", "Tango Red", "Ascari Blue"],
+		"categories": ["Electric Sedan", "Luxury Sedan"],
+		"starting_price": 18000000
+	},
+	{
+		"manufacturer": "Lexus",
+		"model": "LX",
+		"launch_year": 2022,
+		"engine_config": {
+			"engine_type": "V8",
+			"engine_capacity_cc": 4755,
+			"horsepower": 409,
+			"fuel_type": "Gasoline",
+			"transmission": "Automatic",
+			"drive_system": "Four Wheel Drive",
+			"cylinders": 8,
+			"acceleration_0_100_kmph_seconds": 7.0,
+			"top_speed_kmph": 230,
+			"fuel_efficiency_city_kmpl": 5,
+			"fuel_efficiency_highway_kmpl": 7
+		},
+		"features": [
+			"Four-zone Climate Control",
+			"Massaging Seats",
+			"Heads-up Display",
+			"Adaptive Suspension"
+		],
+		"colors": ["Atomic Silver", "Cloudburst Gray", "Deep Garnet"],
+		"categories": ["Luxury SUV", "Full-size SUV"],
+		"starting_price": 21000000
+	},
+	{
+		"manufacturer": "Land Rover",
+		"model": "Range Rover",
+		"launch_year": 2022,
+		"engine_config": {
+			"engine_type": "V8 Supercharged",
+			"engine_capacity_cc": 5000,
+			"horsepower": 557,
+			"fuel_type": "Gasoline",
+			"transmission": "Automatic",
+			"drive_system": "Four Wheel Drive",
+			"cylinders": 8,
+			"acceleration_0_100_kmph_seconds": 4.6,
+			"top_speed_kmph": 250,
+			"fuel_efficiency_city_kmpl": 4,
+			"fuel_efficiency_highway_kmpl": 8
+		},
+		"features": [
+			"Four-zone Climate Control",
+			"Surround View Camera",
+			" Gesture Tailgate",
+			"Heated Rear Seats"
+		],
+		"colors": ["Eiger Grey", "Portofino Blue", "Carpathian Grey"],
+		"categories": ["Luxury SUV", "Full-size SUV"],
+		"starting_price": 23000000
+	},
+	{
+		"manufacturer": "MINI",
+		"model": "Cooper SE",
+		"launch_year": 2022,
+		"engine_config": {
+			"motor_type": "Permanent Magnet Synchronous",
+			"battery_capacity_kwh": 32.6,
+			"horsepower": 184,
+			"drive_system": "Front Wheel Drive",
+			"acceleration_0_100_kmph_seconds": 7.3,
+			"top_speed_kmph": 150,
+			"range_km": 270
+		},
+		"features": [
+			"Harman Kardon Sound System",
+			"Heads-up Display",
+			"Wireless Charging",
+			"Panoramic Moonroof"
+		],
+		"colors": ["White Silver", "Midnight Black", "British Racing Green"],
+		"categories": ["Hatchback", "Compact Electric"],
+		"starting_price": 4400000
+	},
+	{
+		"manufacturer": "Maserati",
+		"model": "MC20",
+		"launch_year": 2021,
+		"engine_config": {
+			"engine_type": "Twin Turbo V6",
+			"engine_capacity_cc": 3000,
+			"horsepower": 621,
+			"fuel_type": "Gasoline",
+			"transmission": "Automatic",
+			"drive_system": "Rear Wheel Drive",
+			"cylinders": 6,
+			"acceleration_0_100_kmph_seconds": 2.9,
+			"top_speed_kmph": 325,
+			"fuel_efficiency_city_kmpl": 5,
+			"fuel_efficiency_highway_kmpl": 9
+		},
+		"features": [
+			"Carbon Fibre Monocoque",
+			" active aerodynamics",
+			"Brembo Carbon Ceramic Brakes",
+			"Alcantara Upholstery"
+		],
+		"colors": ["Bianco Audace", "Giallo Genio", "Blu Infinito"],
+		"categories": ["Supercar", "Sports Coupe"],
+		"starting_price": 35000000
+	},
+	{
+		"manufacturer": "Jaguar",
+		"model": "I-Pace",
+		"launch_year": 2022,
+		"engine_config": {
+			"motor_type": "Permanent Magnet Synchronous",
+			"battery_capacity_kwh": 90,
+			"horsepower": 394,
+			"drive_system": "All Wheel Drive",
+			"acceleration_0_100_kmph_seconds": 4.8,
+			"top_speed_kmph": 200,
+			"range_km": 470
+		},
+		"features": [
+			"Pivi Pro Infotainment",
+			"Meridian Sound System",
+			"Pixel LED Headlights",
+			"Adaptive Cruise Control"
+		],
+		"colors": ["Caldera Red", "Eiger Grey", "Portofino Blue"],
+		"categories": ["Electric SUV", "Luxury SUV"],
+		"starting_price": 14000000
+	},
+	{
+		"manufacturer": "Lamborghini",
+		"model": "Aventador",
+		"launch_year": 2020,
+		"engine_config": {
+			"engine_type": "V12",
+			"engine_capacity_cc": 6498,
+			"horsepower": 770,
+			"fuel_type": "Gasoline",
+			"transmission": "Automatic",
+			"drive_system": "All Wheel Drive",
+			"cylinders": 12,
+			"acceleration_0_100_kmph_seconds": 2.8,
+			"top_speed_kmph": 350,
+			"fuel_efficiency_city_kmpl": 4,
+			"fuel_efficiency_highway_kmpl": 7
+		},
+		"features": [
+			"Scissor Doors",
+			"Adaptive Suspension",
+			"Carbon Ceramic Brakes",
+			"Pushrod Suspension"
+		],
+		"colors": ["Arancio Atlas", "Giallo Orion", "Verde Scandal"],
+		"categories": ["Supercar", "Exotic Sports Car"],
+		"starting_price": 50000000
+	},
+	{
+		"manufacturer": "Porsche",
+		"model": "Panamera",
+		"launch_year": 2021,
+		"engine_config": {
+			"engine_type": "V6 Twin Turbo",
+			"engine_capacity_cc": 2995,
+			"horsepower": 440,
+			"fuel_type": "Gasoline",
+			"transmission": "Automatic",
+			"drive_system": "All Wheel Drive",
+			"cylinders": 6,
+			"acceleration_0_100_kmph_seconds": 4.2,
+			"top_speed_kmph": 289,
+			"fuel_efficiency_city_kmpl": 10,
+			"fuel_efficiency_highway_kmpl": 15
+		},
+		"features": [
+			"Adaptive Air Suspension",
+			"Soft Close Doors",
+			"Heated Rear Seats",
+			"Lane Keep Assist"
+		],
+		"colors": ["White", "Jet Black", "Mahogany"],
+		"categories": ["Luxury Sedan", "Executive Sedan"],
+		"starting_price": 8500000
+	},
+	{
+		"manufacturer": "Tesla",
+		"model": "Model X",
+		"launch_year": 2022,
+		"engine_config": {
+			"motor_type": "AC Induction",
+			"battery_capacity_kwh": 100,
+			"horsepower": 562,
+			"drive_system": "All Wheel Drive",
+			"acceleration_0_100_kmph_seconds": 2.9,
+			"top_speed_kmph": 250,
+			"range_km": 580
+		},
+		"features": [
+			"Falcon Wing Doors",
+			"HEPA Air Filtration",
+			"Self Presenting Front Doors",
+			"Autopilot"
+		],
+		"colors": ["Deep Blue", "Solid Black", "Pearl White"],
+		"categories": ["Electric SUV", "Luxury SUV"],
+		"starting_price": 12000000
+	},
+	{
+		"manufacturer": "Rolls-Royce",
+		"model": "Cullinan",
+		"launch_year": 2019,
+		"engine_config": {
+			"engine_type": "V12 Twin Turbo",
+			"engine_capacity_cc": 6592,
+			"horsepower": 571,
+			"fuel_type": "Gasoline",
+			"transmission": "Automatic",
+			"drive_system": "All Wheel Drive",
+			"cylinders": 12,
+			"acceleration_0_100_kmph_seconds": 5.2,
+			"top_speed_kmph": 250,
+			"fuel_efficiency_city_kmpl": 4,
+			"fuel_efficiency_highway_kmpl": 8
+		},
+		"features": [
+			"Starlight Headliner",
+			"Power Operated Doors",
+			"Bespoke Audio System",
+			"Magic Carpet Ride"
+		],
+		"colors": ["Crystal over Magma", "Burnout Grey", "Blue Crystal"],
+		"categories": ["Luxury SUV", "Full-size SUV"],
+		"starting_price": 60000000
+	},
+	{
+		"manufacturer": "Aston Martin",
+		"model": "DBX",
+		"launch_year": 2020,
+		"engine_config": {
+			"engine_type": "V8 Twin Turbo",
+			"engine_capacity_cc": 3982,
+			"horsepower": 550,
+			"fuel_type": "Gasoline",
+			"transmission": "Automatic",
+			"drive_system": "All Wheel Drive",
+			"cylinders": 8,
+			"acceleration_0_100_kmph_seconds": 4.5,
+			"top_speed_kmph": 290,
+			"fuel_efficiency_city_kmpl": 6,
+			"fuel_efficiency_highway_kmpl": 10
+		},
+		"features": [
+			"Adaptive Damping",
+			"Heated Steering Wheel",
+			"360-degree Camera",
+			"Touchpad Infotainment"
+		],
+		"colors": ["Onyx Black", "Lunar White", "Skyfall Silver"],
+		"categories": ["Luxury SUV", "Performance SUV"],
+		"starting_price": 40000000
+	},
+	{
+		"manufacturer": "Isuzu",
+		"model": "D-Max V-Cross",
+		"launch_year": 2022,
+		"engine_config": {
+			"engine_type": "Turbo Diesel",
+			"engine_capacity_cc": 1898,
+			"horsepower": 162,
+			"fuel_type": "Diesel",
+			"transmission": "Manual",
+			"drive_system": "Four Wheel Drive",
+			"cylinders": 4,
+			"acceleration_0_100_kmph_seconds": 12.4,
+			"top_speed_kmph": 170,
+			"fuel_efficiency_city_kmpl": 13,
+			"fuel_efficiency_highway_kmpl": 19
+		},
+		"features": [
+			"Touchscreen System",
+			"Cruise Control",
+			"Hill Descent Control",
+			"Side Steps"
+		],
+		"colors": ["Sapphire Blue", "Ruby Red", "Pearl White"],
+		"categories": ["Pickup Truck", "Off Road Truck"],
+		"starting_price": 2000000
+	},
+	{
+		"manufacturer": "Bentley",
+		"model": "Flying Spur",
+		"launch_year": 2020,
+		"engine_config": {
+			"engine_type": "W12 Twin Turbo",
+			"engine_capacity_cc": 5950,
+			"horsepower": 626,
+			"fuel_type": "Gasoline",
+			"transmission": "Automatic",
+			"drive_system": "All Wheel Drive",
+			"cylinders": 12,
+			"acceleration_0_100_kmph_seconds": 3.8,
+			"top_speed_kmph": 333,
+			"fuel_efficiency_city_kmpl": 7,
+			"fuel_efficiency_highway_kmpl": 12
+		},
+		"features": [
+			"Four-wheel Steering",
+			"Bentley Rotating Display",
+			"Adaptive Cruise Control",
+			"Night Vision Camera"
+		],
+		"colors": ["Damson", "Magnetic", "Midnight Emerald"],
+		"categories": ["Luxury Sedan", "Executive Sedan"],
+		"starting_price": 45000000
+	},
+	{
+		"manufacturer": "Datsun",
+		"model": "Redi-Go",
+		"launch_year": 2022,
+		"engine_config": {
+			"engine_type": "I3 Petrol",
+			"engine_capacity_cc": 799,
+			"horsepower": 54,
+			"fuel_type": "Gasoline",
+			"transmission": "Manual",
+			"drive_system": "Front Wheel Drive",
+			"cylinders": 3,
+			"acceleration_0_100_kmph_seconds": 5.0,
+			"top_speed_kmph": 135,
+			"fuel_efficiency_city_kmpl": 22,
+			"fuel_efficiency_highway_kmpl": 34
+		},
+		"features": [
+			"Touchscreen System",
+			"Rear Camera",
+			"Driver Airbag",
+			"Power Windows"
+		],
+		"colors": ["Vibrant Blue", "Sandstone Brown", "Bronze Grey"],
+		"categories": ["Hatchback", "City Commuter"],
+		"starting_price": 300000
+	},
+	{
+		"manufacturer": "Toyota",
+		"model": "Fortuner",
+		"launch_year": 2021,
+		"engine_config": {
+			"engine_type": "Turbo Diesel",
+			"engine_capacity_cc": 2755,
+			"horsepower": 204,
+			"fuel_type": "Diesel",
+			"transmission": "Automatic",
+			"drive_system": "Four Wheel Drive",
+			"cylinders": 4,
+			"acceleration_0_100_kmph_seconds": 9.9,
+			"top_speed_kmph": 180,
+			"fuel_efficiency_city_kmpl": 12,
+			"fuel_efficiency_highway_kmpl": 15
+		},
+		"features": [
+			"Push Button Start",
+			"8-inch Touchscreen",
+			"Sunroof",
+			"Terrain Response Modes"
+		],
+		"colors": ["Phantom Brown", "Super White", "Grey Metallic"],
+		"categories": ["SUV", "Family SUV"],
+		"starting_price": 3000000
+	},
+	{
+		"manufacturer": "Kia",
+		"model": "Seltos",
+		"launch_year": 2022,
+		"engine_config": {
+			"engine_type": "I4 Turbo Petrol",
+			"engine_capacity_cc": 1497,
+			"horsepower": 140,
+			"fuel_type": "Gasoline",
+			"transmission": "Automatic",
+			"drive_system": "Front Wheel Drive",
+			"cylinders": 4,
+			"acceleration_0_100_kmph_seconds": 11.5,
+			"top_speed_kmph": 170,
+			"fuel_efficiency_city_kmpl": 16,
+			"fuel_efficiency_highway_kmpl": 20
+		},
+		"features": [
+			"10.25-inch Touchscreen",
+			"Ambient Lighting",
+			"Wireless Charging",
+			"Connected Car Tech"
+		],
+		"colors": ["Steel Silver", "Gravity Grey", "Intense Red"],
+		"categories": ["Compact SUV", "Crossover SUV"],
+		"starting_price": 1200000
+	},
+
+	{
+		"manufacturer": "Nissan",
+		"model": "Magnite",
+		"launch_year": 2021,
+		"engine_config": {
+			"engine_type": "I3 Turbo Petrol",
+			"engine_capacity_cc": 999,
+			"horsepower": 100,
+			"fuel_type": "Gasoline",
+			"transmission": "Automatic",
+			"drive_system": "Front Wheel Drive",
+			"cylinders": 3,
+			"acceleration_0_100_kmph_seconds": 11.5,
+			"top_speed_kmph": 152,
+			"fuel_efficiency_city_kmpl": 18,
+			"fuel_efficiency_highway_kmpl": 20
+		},
+		"features": [
+			"8-inch Touchscreen",
+			"Wireless Android Auto/Apple CarPlay",
+			"Around View Monitor",
+			"Push Button Start"
+		],
+		"colors": ["Sandstone Brown", "Blade Silver", "Pearl White"],
+		"categories": ["Hatchback", "Compact Crossover"],
+		"starting_price": 1000000
+	},
+
+	{
+		"manufacturer": "Honda",
+		"model": "Civic",
+		"launch_year": 2022,
+		"engine_config": {
+			"engine_type": "I4 Turbo Petrol",
+			"engine_capacity_cc": 1498,
+			"horsepower": 126,
+			"fuel_type": "Gasoline",
+			"transmission": "Automatic",
+			"drive_system": "Front Wheel Drive",
+			"cylinders": 4,
+			"acceleration_0_100_kmph_seconds": 10.8,
+			"top_speed_kmph": 195,
+			"fuel_efficiency_city_kmpl": 17,
+			"fuel_efficiency_highway_kmpl": 23
+		},
+		"features": [
+			"LED Headlights",
+			"9-inch Touchscreen",
+			"Paddle Shifters",
+			"Electronic Parking Brake"
+		],
+		"colors": ["Lunar Silver", "Modern Steel", "Crystal Black"],
+		"categories": ["Sedan", "Compact Sedan"],
+		"starting_price": 2000000
+	},
+
+	{
+		"manufacturer": "Volvo",
+		"model": "XC90",
+		"launch_year": 2021,
+		"engine_config": {
+			"engine_type": "I4 Twincharged",
+			"engine_capacity_cc": 1969,
+			"horsepower": 300,
+			"fuel_type": "Gasoline",
+			"transmission": "Automatic",
+			"drive_system": "All Wheel Drive",
+			"cylinders": 4,
+			"acceleration_0_100_kmph_seconds": 6.4,
+			"top_speed_kmph": 230,
+			"fuel_efficiency_city_kmpl": 10,
+			"fuel_efficiency_highway_kmpl": 14
+		},
+		"features": [
+			"Four-zone Climate Control",
+			"Bowers & Wilkins Sound",
+			"Massaging Front Seats",
+			"Air Suspension"
+		],
+		"colors": ["Crystal White", "Electric Silver", "Onyx Black"],
+		"categories": ["Luxury SUV", "Family SUV"],
+		"starting_price": 8500000
+	},
+
+	{
+		"manufacturer": "Skoda",
+		"model": "Superb",
+		"launch_year": 2022,
+		"engine_config": {
+			"engine_type": "V6 TSI",
+			"engine_capacity_cc": 2995,
+			"horsepower": 260,
+			"fuel_type": "Gasoline",
+			"transmission": "Automatic",
+			"drive_system": "Front Wheel Drive",
+			"cylinders": 6,
+			"acceleration_0_100_kmph_seconds": 6.5,
+			"top_speed_kmph": 250,
+			"fuel_efficiency_city_kmpl": 10,
+			"fuel_efficiency_highway_kmpl": 14
+		},
+		"features": [
+			"Panoramic Sunroof",
+			"Virtual Cockpit",
+			"Heated Front & Rear Seats",
+			"Adaptive Cruise Control"
+		],
+		"colors": ["Magic Black", "Lava Blue", "Candy White"],
+		"categories": ["Sedan", "Executive Sedan"],
+		"starting_price": 3000000
+	},
+	{
+		"manufacturer": "RAM",
+		"model": "1500 Rebel",
+		"launch_year": 2021,
+		"engine_config": {
+			"engine_type": "V8 HEMI",
+			"engine_capacity_cc": 5654,
+			"horsepower": 395,
+			"fuel_type": "Gasoline",
+			"transmission": "Automatic",
+			"drive_system": "Four Wheel Drive",
+			"cylinders": 8,
+			"acceleration_0_100_kmph_seconds": 6.5,
+			"top_speed_kmph": 175,
+			"fuel_efficiency_city_kmpl": 7,
+			"fuel_efficiency_highway_kmpl": 10
+		},
+		"features": [
+			"Off-road Suspension",
+			"Hill Descent Control",
+			"Skid Plates",
+			"Tow Hooks"
+		],
+		"colors": ["Flame Red", "Diamond Black", "Bright White"],
+		"categories": ["Pickup Truck", "Off Road Truck"],
+		"starting_price": 5000000
+	},
+
+	{
+		"manufacturer": "Ford",
+		"model": "F-150 Raptor",
+		"launch_year": 2022,
+		"engine_config": {
+			"engine_type": "V6 Twin Turbo",
+			"engine_capacity_cc": 3500,
+			"horsepower": 450,
+			"fuel_type": "Gasoline",
+			"transmission": "Automatic",
+			"drive_system": "Four Wheel Drive",
+			"cylinders": 6,
+			"acceleration_0_100_kmph_seconds": 5.1,
+			"top_speed_kmph": 180,
+			"fuel_efficiency_city_kmpl": 6,
+			"fuel_efficiency_highway_kmpl": 8
+		},
+		"features": [
+			"FOX Racing Shocks",
+			"Terrain Management System",
+			"Trail Control",
+			"Steel Skid Plates"
+		],
+		"colors": ["Agate Black", "Velocity Blue", "Antimatter Blue"],
+		"categories": ["Pickup Truck", "Off Road Truck"],
+		"starting_price": 7000000
+	},
+
+	{
+		"manufacturer": "Jeep",
+		"model": "Gladiator",
+		"launch_year": 2020,
+		"engine_config": {
+			"engine_type": "V6",
+			"engine_capacity_cc": 3645,
+			"horsepower": 285,
+			"fuel_type": "Gasoline",
+			"transmission": "Automatic",
+			"drive_system": "Four Wheel Drive",
+			"cylinders": 6,
+			"acceleration_0_100_kmph_seconds": 7.5,
+			"top_speed_kmph": 190,
+			"fuel_efficiency_city_kmpl": 10,
+			"fuel_efficiency_highway_kmpl": 14
+		},
+		"features": [
+			"Removable Roof",
+			"Off-road Suspension",
+			"Tow Hooks",
+			"Skid Plates"
+		],
+		"colors": ["Hydro Blue", "Billet Silver", "Firecracker Red"],
+		"categories": ["Pickup Truck", "Off Road Truck"],
+		"starting_price": 4000000
+	},
+
+	{
+		"manufacturer": "Land Rover",
+		"model": "Defender",
+		"launch_year": 2022,
+		"engine_config": {
+			"engine_type": "I6 Mild Hybrid",
+			"engine_capacity_cc": 2996,
+			"horsepower": 400,
+			"fuel_type": "Gasoline",
+			"transmission": "Automatic",
+			"drive_system": "Four Wheel Drive",
+			"cylinders": 6,
+			"acceleration_0_100_kmph_seconds": 5.8,
+			"top_speed_kmph": 191,
+			"fuel_efficiency_city_kmpl": 9,
+			"fuel_efficiency_highway_kmpl": 12
+		},
+		"features": [
+			"Terrain Response System",
+			"Wade Sensing",
+			"Electronic Air Suspension",
+			"360-Degree Camera"
+		],
+		"colors": ["Gondwana Stone", "Eiger Grey", "Pangea Green"],
+		"categories": ["Off Road SUV", "Adventure SUV"],
+		"starting_price": 8000000
+	},
+
+	{
+		"manufacturer": "Mercedes-Benz",
+		"model": "G-Class",
+		"launch_year": 2022,
+		"engine_config": {
+			"engine_type": "V8 BiTurbo",
+			"engine_capacity_cc": 3982,
+			"horsepower": 577,
+			"fuel_type": "Gasoline",
+			"transmission": "Automatic",
+			"drive_system": "Four Wheel Drive",
+			"cylinders": 8,
+			"acceleration_0_100_kmph_seconds": 4.5,
+			"top_speed_kmph": 220,
+			"fuel_efficiency_city_kmpl": 7,
+			"fuel_efficiency_highway_kmpl": 10
+		},
+		"features": [
+			"Portals",
+			"3 Differential Locks",
+			"Adaptive Damping",
+			"Burmester Sound System"
+		],
+		"colors": ["Moonlight Blue", "Iridium Silver", "Mojave Silver"],
+		"categories": ["Luxury SUV", "Off Road SUV"],
+		"starting_price": 20000000
+	},
+
+	{
+		"manufacturer": "Toyota",
+		"model": "Tacoma",
+		"launch_year": 2021,
+		"engine_config": {
+			"engine_type": "V6",
+			"engine_capacity_cc": 3956,
+			"horsepower": 278,
+			"fuel_type": "Gasoline",
+			"transmission": "Automatic",
+			"drive_system": "Four Wheel Drive",
+			"cylinders": 6,
+			"acceleration_0_100_kmph_seconds": 7.4,
+			"top_speed_kmph": 175,
+			"fuel_efficiency_city_kmpl": 10,
+			"fuel_efficiency_highway_kmpl": 14
+		},
+		"features": [
+			"Hill Start Assist",
+			"Locking Rear Differential",
+			"Skid Plates",
+			" Crawl Control"
+		],
+		"colors": ["Super White", "Magnetic Grey", "Army Green"],
+		"categories": ["Pickup Truck", "Off Road Truck"],
+		"starting_price": 3500000
+	},
+
+	{
+		"manufacturer": "Mahindra",
+		"model": "Bolero",
+		"launch_year": 2022,
+		"engine_config": {
+			"engine_type": "mHAWK100 Diesel",
+			"engine_capacity_cc": 1493,
+			"horsepower": 100,
+			"fuel_type": "Diesel",
+			"transmission": "Manual",
+			"drive_system": "Rear Wheel Drive",
+			"cylinders": 3,
+			"acceleration_0_100_kmph_seconds": 16.5,
+			"top_speed_kmph": 150,
+			"fuel_efficiency_city_kmpl": 17,
+			"fuel_efficiency_highway_kmpl": 20
+		},
+		"features": [
+			"7 Seater",
+			"ABS",
+			"Mechanical Locking Differential",
+			"Fog Lights"
+		],
+		"colors": ["Highway Red", "Lakeside Brown", "Diamond White"],
+		"categories": ["SUV", "Off Road SUV"],
+		"starting_price": 1000000
+	},
+
+	{
+		"manufacturer": "Suzuki",
+		"model": "Jimny",
+		"launch_year": 2020,
+		"engine_config": {
+			"engine_type": "K15B Petrol",
+			"engine_capacity_cc": 1462,
+			"horsepower": 103,
+			"fuel_type": "Gasoline",
+			"transmission": "Manual",
+			"drive_system": "Four Wheel Drive",
+			"cylinders": 4,
+			"acceleration_0_100_kmph_seconds": 15.0,
+			"top_speed_kmph": 145,
+			"fuel_efficiency_city_kmpl": 13,
+			"fuel_efficiency_highway_kmpl": 17
+		},
+		"features": [
+			"ALLGRIP Pro AWD",
+			" Hill Hold Control",
+			"Hill Descent Control",
+			"Ladder Frame Chassis"
+		],
+		"colors": ["Bluish Black Pearl", "Brisk Blue", "Chiffon Ivory"],
+		"categories": ["Off Road SUV", "Compact SUV"],
+		"starting_price": 1000000
+	},
+
+	{
+		"manufacturer": "Isuzu",
+		"model": "D-Max",
+		"launch_year": 2021,
+		"engine_config": {
+			"engine_type": "Turbo Diesel",
+			"engine_capacity_cc": 1898,
+			"horsepower": 162,
+			"fuel_type": "Diesel",
+			"transmission": "Manual",
+			"drive_system": "Four Wheel Drive",
+			"cylinders": 4,
+			"acceleration_0_100_kmph_seconds": 12.7,
+			"top_speed_kmph": 170,
+			"fuel_efficiency_city_kmpl": 13,
+			"fuel_efficiency_highway_kmpl": 19
+		},
+		"features": [
+			"Terrain Command",
+			" Hill Descent Control",
+			" Limited Slip Differential",
+			"Side Steps"
+		],
+		"colors": ["Sapphire Blue", "Crimson Red", "Silky White Pearl"],
+		"categories": ["Pickup Truck", "Off Road Truck"],
+		"starting_price": 2000000
+	},
+	{
+		"manufacturer": "Bugatti",
+		"model": "Chiron",
+		"features": [
+			"Quad Turbo W16 Engine",
+			"Active Aerodynamics",
+			"All Wheel Drive",
+			"Carbon Ceramic Brakes"
+		],
+		"launch_year": 2016,
+		"engine_config": {
+			"engine_type": "W16 Quad Turbo",
+			"engine_capacity_cc": 7993,
+			"horsepower": 1500,
+			"fuel_type": "Gasoline",
+			"transmission": "DCT 7-Speed",
+			"drive_system": "AWD",
+			"acceleration_0_100_kmph_seconds": 2.4,
+			"top_speed_kmph": 420
+		},
+		"colors": ["Blue Carbon", "Black", "Red"],
+		"categories": ["Supercar", "Hypercar"],
+		"starting_price": 19000000
+	},
+
+	{
+		"manufacturer": "Koenigsegg",
+		"model": "Agera RS",
+		"features": [
+			"V8 Twin Turbo Engine",
+			"Active Aero",
+			"Triplex Suspension",
+			"Carbon Fiber Body"
+		],
+		"launch_year": 2017,
+		"engine_config": {
+			"engine_type": "V8 Twin Turbo",
+			"engine_capacity_cc": 5015,
+			"horsepower": 1360,
+			"fuel_type": "Gasoline",
+			"transmission": "7-Speed Auto",
+			"drive_system": "RWD",
+			"acceleration_0_100_kmph_seconds": 2.6,
+			"top_speed_kmph": 447
+		},
+		"colors": ["White", "Orange", "Naked Carbon Fiber"],
+		"categories": ["Supercar", "Hypercar"],
+		"starting_price": 24000000
+	},
+
+	{
+		"manufacturer": "McLaren",
+		"model": "Speedtail",
+		"features": [
+			"Central Driving Position",
+			"Teardrop Canopy",
+			"Carbon Fiber Body",
+			"Bespoke Interior"
+		],
+		"launch_year": 2020,
+		"engine_config": {
+			"engine_type": "V8 Twin Turbo",
+			"engine_capacity_cc": 3994,
+			"horsepower": 1035,
+			"fuel_type": "Gasoline",
+			"transmission": "7-Speed Auto",
+			"drive_system": "RWD",
+			"acceleration_0_100_kmph_seconds": 2.9,
+			"top_speed_kmph": 403
+		},
+		"colors": ["White & Black", "Silver & Orange", "Grey & Blue"],
+		"categories": ["Supercar", "Hypercar"],
+		"starting_price": 28000000
+	},
+	{
+		"manufacturer": "Pagani",
+		"model": "Huayra Roadster",
+		"features": [
+			"Active Aerodynamics",
+			"Carbon Fiber Body",
+			"Bespoke Interior",
+			"Central Exhaust"
+		],
+		"launch_year": 2017,
+		"engine_config": {
+			"engine_type": "V12 Twin Turbo",
+			"engine_capacity_cc": 5980,
+			"horsepower": 764,
+			"fuel_type": "Gasoline",
+			"transmission": "7-speed auto",
+			"drive_system": "RWD",
+			"acceleration_0_100_kmph_seconds": 2.8,
+			"top_speed_kmph": 370
+		},
+		"colors": ["White", "Silver", "Grey"],
+		"categories": ["Supercar", "Hypercar"],
+		"starting_price": 25000000
+	},
+
+	{
+		"manufacturer": "Ferrari",
+		"model": "LaFerrari",
+		"features": [
+			"Hybrid V12 Engine",
+			"Active Aerodynamics",
+			"Carbon Fiber Body",
+			"F1 Derived Tech"
+		],
+		"launch_year": 2013,
+		"engine_config": {
+			"engine_type": "V12 + Hybrid",
+			"engine_capacity_cc": 6262,
+			"horsepower": 950,
+			"fuel_type": "Gasoline",
+			"transmission": "7-Speed Auto",
+			"drive_system": "RWD",
+			"acceleration_0_100_kmph_seconds": 2.4,
+			"top_speed_kmph": 350
+		},
+		"colors": ["Rosso Corsa", "Giallo Modena", "Blu Tour De France"],
+		"categories": ["Supercar", "Hybrid Hypercar"],
+		"starting_price": 30000000
+	},
+
+	{
+		"manufacturer": "Lamborghini",
+		"model": "Sian",
+		"features": [
+			"Hybrid V12 Engine",
+			"Active Aero",
+			"Carbon Fiber Body",
+			"Scissor Doors"
+		],
+		"launch_year": 2020,
+		"engine_config": {
+			"engine_type": "V12 Hybrid",
+			"engine_capacity_cc": 6418,
+			"horsepower": 819,
+			"fuel_type": "Gasoline",
+			"transmission": "7-Speed Auto",
+			"drive_system": "AWD",
+			"acceleration_0_100_kmph_seconds": 2.4,
+			"top_speed_kmph": 350
+		},
+		"colors": ["Blu Eleos", "Verde Ermes", "Arancio Argos"],
+		"categories": ["Supercar", "Hybrid Hypercar"],
+		"starting_price": 32000000
+	},
+
+	{
+		"manufacturer": "Aston Martin",
+		"model": "Valkyrie",
+		"features": [
+			"V12 Hybrid Engine",
+			"Active Aero",
+			"Carbon Fiber Body",
+			"F1 Tech"
+		],
+		"launch_year": 2022,
+		"engine_config": {
+			"engine_type": "V12 Hybrid",
+			"engine_capacity_cc": 6500,
+			"horsepower": 1160,
+			"fuel_type": "Gasoline",
+			"transmission": "7-Speed Auto",
+			"drive_system": "RWD",
+			"acceleration_0_100_kmph_seconds": 2.5,
+			"top_speed_kmph": 402
+		},
+		"colors": ["Silver", "Green", "Black"],
+		"categories": ["Supercar", "Hypercar"],
+		"starting_price": 30000000
+	},
+
+	{
+		"manufacturer": "Rimac",
+		"model": "Nevera",
+		"features": [
+			"Electric Powertrain",
+			"Active Aero",
+			"Carbon Ceramic Brakes",
+			"All Wheel Torque Vectoring"
+		],
+		"launch_year": 2021,
+		"engine_config": {
+			"motor_type": "Electric",
+			"battery_capacity_kwh": 120,
+			"horsepower": 1914,
+			"drive_system": "AWD",
+			"acceleration_0_100_kmph_seconds": 1.85,
+			"top_speed_kmph": 412
+		},
+		"colors": ["White", "Grey", "Green"],
+		"categories": ["Electric Supercar", "Hypercar"],
+		"starting_price": 22000000
+	},
+
+	{
+		"manufacturer": "Lotus",
+		"model": "Evija",
+		"features": [
+			"Electric Powertrain",
+			"Active Aero",
+			"Lightweight Design",
+			"Torque Vectoring"
+		],
+		"launch_year": 2020,
+		"engine_config": {
+			"motor_type": "Electric",
+			"battery_capacity_kwh": 70,
+			"horsepower": 1973,
+			"drive_system": "AWD",
+			"acceleration_0_100_kmph_seconds": 2.8,
+			"top_speed_kmph": 320
+		},
+		"colors": ["Red", "Black", "Grey"],
+		"categories": ["Electric Supercar", "Hypercar"],
+		"starting_price": 23000000
+	},
+
+	{
+		"manufacturer": "Pininfarina",
+		"model": "Battista",
+		"features": [
+			"Electric Powertrain",
+			"Active Aero",
+			"Carbon Fiber Body",
+			"Bespoke Interior"
+		],
+		"launch_year": 2022,
+		"engine_config": {
+			"motor_type": "Electric",
+			"battery_capacity_kwh": 120,
+			"horsepower": 1900,
+			"drive_system": "AWD",
+			"acceleration_0_100_kmph_seconds": 1.9,
+			"top_speed_kmph": 350
+		},
+		"colors": ["Black", "White", "Grey"],
+		"categories": ["Electric Supercar", "Hypercar"],
+		"starting_price": 24000000
+	},
+
+	{
+		"manufacturer": "Hennessey",
+		"model": "Venom F5",
+		"features": [
+			"V8 Twin Turbo Engine",
+			"Active Aero",
+			"Carbon Fiber Body",
+			"Bespoke Interior"
+		],
+		"launch_year": 2022,
+		"engine_config": {
+			"engine_type": "V8 Twin Turbo",
+			"engine_capacity_cc": 6555,
+			"horsepower": 1817,
+			"fuel_type": "Gasoline",
+			"transmission": "7-Speed Auto",
+			"drive_system": "RWD",
+			"acceleration_0_100_kmph_seconds": 2.6,
+			"top_speed_kmph": 484
+		},
+		"colors": ["Black", "Green", "Orange"],
+		"categories": ["Supercar", "Hypercar"],
+		"starting_price": 24000000
+	},
+
+	{
+		"manufacturer": "Zenvo",
+		"model": "TS1",
+		"features": [
+			"V8 Twin Turbo Engine",
+			"Active Aero",
+			"Lightweight Design",
+			"Bespoke Interior"
+		],
+		"launch_year": 2016,
+		"engine_config": {
+			"engine_type": "V8 Twin Turbo",
+			"engine_capacity_cc": 5751,
+			"horsepower": 1104,
+			"fuel_type": "Gasoline",
+			"transmission": "7-Speed Auto",
+			"drive_system": "RWD",
+			"acceleration_0_100_kmph_seconds": 2.8,
+			"top_speed_kmph": 375
+		},
+		"colors": ["Orange", "White", "Black"],
+		"categories": ["Supercar", "Hypercar"],
+		"starting_price": 18500000
+	}
+]
