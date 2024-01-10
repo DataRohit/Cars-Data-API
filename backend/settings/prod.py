@@ -10,7 +10,7 @@ DEBUG = False
 DATABASES = {
     "default": {
         "ENGINE": "djongo",
-        "NAME": "Los-Santos-Customs",
+        "NAME": "delarship_database",
         "ENFORCE_SCHEMA": False,
         "CLIENT": {
             "host": os.environ["MONGO_DB_URI"],
