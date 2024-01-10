@@ -10,7 +10,7 @@ DEBUG = False
 DATABASES = {
     "default": {
         "ENGINE": "djongo",
-        "NAME": "delarship_database",
+        "NAME": "dealership_database",
         "ENFORCE_SCHEMA": False,
         "CLIENT": {
             "host": os.environ["MONGO_DB_URI"],
