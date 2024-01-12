@@ -2,7 +2,7 @@
 	"version": 2,
 	"builds": [
 		{
-			"src": "realestate/wsgi.py",
+			"src": "backend/wsgi.py",
 			"use": "@vercel/python",
 			"config": { "maxLambdaSize": "15mb", "runtime": "python3.11" }
 		},
@@ -21,7 +21,7 @@
 		},
 		{
 			"src": "/(.*)",
-			"dest": "realestate/wsgi.py"
+			"dest": "backend/wsgi.py"
 		}
 	]
 }
