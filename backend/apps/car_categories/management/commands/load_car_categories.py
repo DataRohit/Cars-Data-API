@@ -1,7 +1,7 @@
 import json
 from django.conf import settings
 from django.core.management.base import BaseCommand
-from backend.apps.car_category.models import CarCategory
+from backend.apps.car_categories.models import CarCategory
 
 
 class Command(BaseCommand):

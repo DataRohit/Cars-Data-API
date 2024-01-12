@@ -32,7 +32,8 @@ INSTALLED_APPS = [
     # Apps
     "backend.apps.home",
     "backend.apps.cars",
-    "backend.apps.car_category",
+    "backend.apps.car_categories",
+    "backend.apps.car_parts",
 ]
 
 

@@ -6,9 +6,9 @@ from drf_yasg import openapi
 
 schema_view = get_schema_view(
     openapi.Info(
-        title="Los Santos Customs API",
+        title="Car Dealership API",
         default_version="v1",
-        description="A Car Dealership API for Los Santos Customs",
+        description="A Car Dealership API",
         contact=openapi.Contact(email="rohit.vilas.ingole@gmail.com"),
         license=openapi.License(name="MIT License"),
     ),
@@ -29,5 +29,6 @@ urlpatterns = [
     path("admin/", admin.site.urls, name="admin"),
     path("", include("backend.apps.home.urls")),
     path("cars/", include("backend.apps.cars.urls")),
-    path("car_categories/", include("backend.apps.car_category.urls")),
+    path("car_categories/", include("backend.apps.car_categories.urls")),
+    path("car_parts/", include("backend.apps.car_parts.urls")),
 ]

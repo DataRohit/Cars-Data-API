@@ -1,0 +1,142 @@
+[
+	{
+		"part_name": "Air Filter",
+		"part_number": "AF-202",
+		"description": "High flow cotton air filter",
+		"manufacturer": "K&N",
+		"price": 4999.99
+	},
+	{
+		"part_name": "Oil Filter",
+		"part_number": "OF-305",
+		"description": "High mileage synthetic blend oil filter",
+		"manufacturer": "Mobil",
+		"price": 674.99
+	},
+	{
+		"part_name": "Brake Pads",
+		"part_number": "BP-308",
+		"description": "Ceramic brake pads",
+		"manufacturer": "Brembo",
+		"price": 2249.99
+	},
+	{
+		"part_name": "Wiper Blades",
+		"part_number": "WB-551",
+		"description": "Silicone wiper blades for front windshield",
+		"manufacturer": "Bosch",
+		"price": 1349.99
+	},
+	{
+		"part_name": "Spark Plugs",
+		"part_number": "SP-577",
+		"description": "Iridium tipped high performance spark plugs",
+		"manufacturer": "NGK",
+		"price": 2999.99
+	},
+	{
+		"part_name": "Battery",
+		"part_number": "BT-924",
+		"description": "High capacity AGM replacement battery",
+		"manufacturer": "Optima",
+		"price": 10499.99
+	},
+	{
+		"part_name": "Air Cabin Filter",
+		"part_number": "CF-203",
+		"description": "Activated carbon cabin air filter",
+		"manufacturer": "FRAM",
+		"price": 749.99
+	},
+	{
+		"part_name": "Headlights",
+		"part_number": "HL-724",
+		"description": "LED headlight bulbs",
+		"manufacturer": "Philips",
+		"price": 2249.99
+	},
+	{
+		"part_name": "Tail Light",
+		"part_number": "TL-822",
+		"description": "LED tail light assembly",
+		"manufacturer": "Depo",
+		"price": 1349.99
+	},
+	{
+		"part_name": "Window Regulator",
+		"part_number": "WR-301",
+		"description": "Power window regulator",
+		"manufacturer": "Dorman",
+		"price": 2249.99
+	},
+	{
+		"part_name": "Brake Discs",
+		"part_number": "BD-103",
+		"description": "Ventilated front brake discs",
+		"manufacturer": "Brembo",
+		"price": 4999.99
+	},
+	{
+		"part_name": "Control Arm",
+		"part_number": "CA-551",
+		"description": "Front lower control arm",
+		"manufacturer": "MOOG",
+		"price": 2249.99
+	},
+	{
+		"part_name": "Shocks",
+		"part_number": "SH-024",
+		"description": "Heavy duty rear shock absorbers",
+		"manufacturer": "KYB",
+		"price": 4249.99
+	},
+	{
+		"part_name": "Brake Pads",
+		"part_number": "BP-903",
+		"description": "Semi-metallic front brake pads",
+		"manufacturer": "Wagner",
+		"price": 1349.99
+	},
+	{
+		"part_name": "CV Axle",
+		"part_number": "CV-924",
+		"description": "Front left CV axle shaft",
+		"manufacturer": "SKF",
+		"price": 2249.99
+	},
+	{
+		"part_name": "Wheel Bearing",
+		"part_number": "WB-822",
+		"description": "Front wheel hub bearing assembly",
+		"manufacturer": "Timken",
+		"price": 2749.99
+	},
+	{
+		"part_name": "Control Arm Bushing",
+		"part_number": "CB-301",
+		"description": "Suspension control arm bushing",
+		"manufacturer": "Mevotech",
+		"price": 449.99
+	},
+	{
+		"part_name": "Idler Pulley",
+		"part_number": "IP-902",
+		"description": "Serpentine belt idler pulley",
+		"manufacturer": "Dayco",
+		"price": 549.99
+	},
+	{
+		"part_name": "Catalytic Converter",
+		"part_number": "CC-401",
+		"description": "Direct fit catalytic converter",
+		"manufacturer": "Walker",
+		"price": 3749.99
+	},
+	{
+		"part_name": "Oxygen Sensor",
+		"part_number": "OS-522",
+		"description": "Upstream oxygen sensor",
+		"manufacturer": "Bosch",
+		"price": 1349.99
+	}
+]
