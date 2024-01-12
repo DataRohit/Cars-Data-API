@@ -129,3 +129,7 @@ REST_FRAMEWORK = {
     ],
     "DEFAULT_THROTTLE_RATES": {"anon": "10/hour", "user": "100/hour"},
 }
+
+
+# Set allowed hosts
+ALLOWED_HOSTS = [".vercel.app"]
