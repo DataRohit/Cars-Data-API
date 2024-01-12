@@ -97,7 +97,7 @@ STATIC_URL = "/static/"
 
 
 # Set the static files root
-STATIC_ROOT = BASE_DIR / "staticfiles" / "static"
+STATIC_ROOT = BASE_DIR.parent / "staticfiles" / "static"
 
 
 # Set the static files storage
