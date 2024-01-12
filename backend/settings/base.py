@@ -97,7 +97,7 @@ STATIC_URL = "/static/"
 
 
 # Set the static files root
-STATIC_ROOT = BASE_DIR / "staticfiles" / "static"
+STATIC_ROOT = BASE_DIR / "backend" / "staticfiles" / "static"
 
 
 # Set the static files storage
@@ -127,7 +127,7 @@ REST_FRAMEWORK = {
         "rest_framework.throttling.AnonRateThrottle",
         "rest_framework.throttling.UserRateThrottle",
     ],
-    "DEFAULT_THROTTLE_RATES": {"anon": "10/hour", "user": "100/hour"},
+    "DEFAULT_THROTTLE_RATES": {"anon": "100/hour", "user": "1000/hour"},
 }
 
 
