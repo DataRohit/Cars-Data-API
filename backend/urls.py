@@ -28,6 +28,7 @@ urlpatterns = [
     path("redoc/", schema_view.with_ui("redoc", cache_timeout=0), name="schema-redoc"),
     path("admin/", admin.site.urls, name="admin"),
     path("", include("backend.apps.home.urls")),
+    path("jwtauth/", include("backend.apps.jwtauth.urls")),
     path("cars/", include("backend.apps.cars.urls")),
     path("car_categories/", include("backend.apps.car_categories.urls")),
     path("car_parts/", include("backend.apps.car_parts.urls")),

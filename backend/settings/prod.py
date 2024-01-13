@@ -6,6 +6,10 @@ from backend.settings.base import *
 DEBUG = False
 
 
+# Set allowed hosts
+ALLOWED_HOSTS = [".vercel.app"]
+
+
 # Database
 DATABASES = {
     "default": {

@@ -2,6 +2,7 @@
 import dotenv
 import os
 from pathlib import Path
+import datetime
 
 
 # Load environment variables
@@ -28,9 +29,11 @@ INSTALLED_APPS = [
     # Third party apps
     "corsheaders",
     "rest_framework",
+    "rest_framework_simplejwt",
     "drf_yasg",
     # Apps
     "backend.apps.home",
+    "backend.apps.jwtauth",
     "backend.apps.cars",
     "backend.apps.car_categories",
     "backend.apps.car_parts",
@@ -121,8 +124,15 @@ AUTH_PASSWORD_VALIDATORS = [
 ]
 
 
-# Set the throttling rates
 REST_FRAMEWORK = {
+    "DEFAULT_AUTHENTICATION_CLASSES": [
+        "rest_framework_simplejwt.authentication.JWTAuthentication",
+    ],
+    "DEFAULT_PERMISSION_CLASSES": [
+        "rest_framework.permissions.IsAuthenticatedOrReadOnly"
+    ],
+    "DEFAULT_PAGINATION_CLASS": "rest_framework.pagination.LimitOffsetPagination",
+    "PAGE_SIZE": 10,
     "DEFAULT_THROTTLE_CLASSES": [
         "rest_framework.throttling.AnonRateThrottle",
         "rest_framework.throttling.UserRateThrottle",
@@ -130,6 +140,8 @@ REST_FRAMEWORK = {
     "DEFAULT_THROTTLE_RATES": {"anon": "10/hour", "user": "100/hour"},
 }
 
-
-# Set allowed hosts
-ALLOWED_HOSTS = [".vercel.app"]
+SIMPLE_JWT = {
+    "AUTH_HEADER_TYPES": ["JWT"],
+    "ACCESS_TOKEN_LIFETIME": datetime.timedelta(minutes=30),
+    "REFRESH_TOKEN_LIFETIME": datetime.timedelta(minutes=60),
+}
