@@ -15,7 +15,7 @@ packaging==23.2
 pathspec==0.12.1
 platformdirs==4.1.0
 PyJWT==2.8.0
-pymongo==3.12.3
+pymongo==3.11.3
 python-dotenv==1.0.0
 pytz==2023.3.post1
 PyYAML==6.0.1
